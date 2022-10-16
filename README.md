@@ -20,8 +20,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-tailwind-FAR0MDgc6f)
+- Live Site URL: [Live](https://mohamedmostafakhudari.github.io/nft-preview-card-component/public/)
 
 ## My process
 
